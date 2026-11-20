@@ -3,8 +3,7 @@ SQL Server + Excel churn risk analysis on a synthetic SaaS dataset
 # Silent Churn Radar
 A SQL Server + Excel project where I try to spot customers who are about to leave a subscription app, and work out how much monthly revenue is at risk.
 
-![Dashboard](<img width="1920" height="1035" alt="Flow Desk Churn Radar Screenshot " src="https://github.com/user-attachments/assets/c4cc2d87-953c-493b-9e3f-2c82bd7e3f6a" />
-)
+![Dashboard]("C:\Users\peele\OneDrive\Documents\flowdesk-churn-radar\images\Flow Desk Churn Radar Screenshot .png")
 
 **Note:** the data is synthetic (randomly generated). It is not real customer data.
 
