@@ -1,0 +1,703 @@
+ticket_id,customer_id,ticket_date,issue_type,priority,resolution_status,resolved_date
+T00001,C132,2025-02-13,Performance,Low,Resolved,2025-02-18
+T00002,C254,2025-02-27,Login Issue,Low,Resolved,2025-03-03
+T00003,C280,2025-03-18,Login Issue,High,Resolved,2025-03-24
+T00004,C096,2025-03-19,Bug,Low,Resolved,2025-03-20
+T00005,C216,2025-03-24,Feature Request,High,Resolved,2025-03-25
+T00006,C103,2025-04-06,Bug,Medium,Resolved,2025-04-11
+T00007,C232,2025-04-06,Login Issue,Low,Resolved,2025-04-11
+T00008,C217,2025-04-08,Performance,High,Resolved,2025-04-08
+T00009,C048,2025-04-14,Bug,Medium,Resolved,2025-04-16
+T00010,C204,2025-04-19,Billing,Low,Resolved,2025-04-24
+T00011,C078,2025-04-22,Login Issue,Low,Resolved,2025-04-23
+T00012,C139,2025-04-27,Performance,High,Resolved,2025-04-29
+T00013,C254,2025-04-28,Billing,Medium,Open,
+T00014,C313,2025-05-01,Onboarding,Medium,Resolved,2025-05-01
+T00015,C073,2025-05-06,Feature Request,Medium,Resolved,2025-05-08
+T00016,C139,2025-05-06,Onboarding,Medium,Resolved,2025-05-06
+T00017,C078,2025-05-09,Bug,High,Resolved,2025-05-11
+T00018,C266,2025-05-11,Onboarding,Low,Resolved,2025-05-14
+T00019,C266,2025-05-12,Billing,Low,Resolved,2025-05-12
+T00020,C132,2025-05-21,Onboarding,Medium,Resolved,2025-05-25
+T00021,C048,2025-05-25,Onboarding,Low,Resolved,2025-05-27
+T00022,C239,2025-05-26,Login Issue,Medium,Resolved,2025-05-30
+T00023,C184,2025-06-04,Bug,High,Resolved,2025-06-09
+T00024,C098,2025-06-05,Billing,High,Open,
+T00025,C285,2025-06-07,Login Issue,Medium,Resolved,2025-06-11
+T00026,C200,2025-06-08,Bug,Low,Resolved,2025-06-12
+T00027,C073,2025-06-09,Login Issue,Low,Resolved,2025-06-09
+T00028,C165,2025-06-09,Bug,High,Resolved,2025-06-09
+T00029,C169,2025-06-11,Performance,Medium,Resolved,2025-06-17
+T00030,C223,2025-06-11,Bug,Medium,Resolved,2025-06-16
+T00031,C194,2025-06-13,Login Issue,Low,Resolved,2025-06-14
+T00032,C139,2025-06-14,Login Issue,Medium,Resolved,2025-06-18
+T00033,C058,2025-06-15,Billing,Low,Resolved,2025-06-19
+T00034,C217,2025-06-17,Feature Request,Medium,Resolved,2025-06-17
+T00035,C020,2025-06-18,Performance,Medium,Resolved,2025-06-23
+T00036,C139,2025-06-20,Onboarding,High,Open,
+T00037,C200,2025-06-22,Bug,Low,Resolved,2025-06-27
+T00038,C165,2025-06-24,Feature Request,Medium,Resolved,2025-06-27
+T00039,C049,2025-06-25,Feature Request,Low,Resolved,2025-06-26
+T00040,C132,2025-07-04,Performance,Low,Resolved,2025-07-10
+T00041,C223,2025-07-05,Feature Request,Low,Resolved,2025-07-07
+T00042,C299,2025-07-07,Login Issue,Low,Resolved,2025-07-07
+T00043,C055,2025-07-16,Onboarding,Low,Resolved,2025-07-16
+T00044,C289,2025-07-17,Performance,Medium,Resolved,2025-07-17
+T00045,C188,2025-07-19,Onboarding,Low,Resolved,2025-07-21
+T00046,C319,2025-07-21,Performance,Low,Resolved,2025-07-24
+T00047,C249,2025-07-22,Onboarding,Low,Resolved,2025-07-24
+T00048,C026,2025-07-27,Billing,Medium,Resolved,2025-07-31
+T00049,C074,2025-07-29,Billing,Medium,Resolved,2025-08-01
+T00050,C078,2025-07-30,Billing,Low,Resolved,2025-08-03
+T00051,C093,2025-07-30,Billing,High,Resolved,2025-07-31
+T00052,C016,2025-08-02,Billing,High,Open,
+T00053,C008,2025-08-03,Performance,High,Resolved,2025-08-06
+T00054,C073,2025-08-05,Billing,Medium,Resolved,2025-08-06
+T00055,C169,2025-08-07,Performance,High,Resolved,2025-08-13
+T00056,C102,2025-08-09,Login Issue,Low,Resolved,2025-08-14
+T00057,C115,2025-08-10,Billing,Low,Resolved,2025-08-16
+T00058,C319,2025-08-12,Performance,Medium,Resolved,2025-08-14
+T00059,C288,2025-08-15,Billing,Low,Resolved,2025-08-18
+T00060,C058,2025-08-16,Onboarding,High,Resolved,2025-08-22
+T00061,C008,2025-08-18,Billing,Medium,Resolved,2025-08-19
+T00062,C068,2025-08-18,Login Issue,Medium,Resolved,2025-08-18
+T00063,C241,2025-08-21,Login Issue,Low,Resolved,2025-08-23
+T00064,C026,2025-08-23,Onboarding,Medium,Resolved,2025-08-28
+T00065,C073,2025-08-23,Feature Request,Medium,Resolved,2025-08-24
+T00066,C219,2025-08-24,Performance,Medium,Resolved,2025-08-29
+T00067,C094,2025-08-25,Bug,Medium,Resolved,2025-08-27
+T00068,C188,2025-08-27,Billing,High,Resolved,2025-08-29
+T00069,C055,2025-08-28,Onboarding,Low,Resolved,2025-09-01
+T00070,C183,2025-08-28,Billing,Low,Resolved,2025-09-01
+T00071,C076,2025-08-29,Feature Request,Low,Resolved,2025-08-30
+T00072,C198,2025-08-29,Login Issue,Medium,Resolved,2025-09-04
+T00073,C103,2025-08-30,Billing,Medium,Resolved,2025-08-30
+T00074,C047,2025-09-01,Onboarding,Low,Resolved,2025-09-07
+T00075,C115,2025-09-03,Login Issue,Low,Resolved,2025-09-03
+T00076,C020,2025-09-05,Performance,High,Resolved,2025-09-09
+T00077,C051,2025-09-05,Onboarding,Low,Resolved,2025-09-11
+T00078,C280,2025-09-07,Onboarding,Medium,Resolved,2025-09-12
+T00079,C054,2025-09-09,Login Issue,Low,Resolved,2025-09-10
+T00080,C055,2025-09-10,Performance,Low,Resolved,2025-09-13
+T00081,C212,2025-09-10,Bug,Medium,Resolved,2025-09-13
+T00082,C317,2025-09-11,Billing,Low,Resolved,2025-09-14
+T00083,C102,2025-09-15,Performance,Low,Resolved,2025-09-19
+T00084,C263,2025-09-15,Feature Request,High,Resolved,2025-09-21
+T00085,C239,2025-09-16,Billing,Low,Resolved,2025-09-16
+T00086,C109,2025-09-23,Performance,Low,Resolved,2025-09-25
+T00087,C189,2025-09-25,Feature Request,Medium,Resolved,2025-09-28
+T00088,C052,2025-09-27,Billing,Medium,Resolved,2025-10-03
+T00089,C288,2025-10-01,Onboarding,Low,Resolved,2025-10-06
+T00090,C268,2025-10-02,Bug,Medium,Resolved,2025-10-07
+T00091,C276,2025-10-02,Login Issue,Low,Resolved,2025-10-04
+T00092,C073,2025-10-06,Feature Request,Low,Resolved,2025-10-09
+T00093,C117,2025-10-06,Onboarding,Medium,Resolved,2025-10-11
+T00094,C212,2025-10-08,Billing,Medium,Resolved,2025-10-14
+T00095,C071,2025-10-09,Bug,Low,Resolved,2025-10-10
+T00096,C010,2025-10-13,Login Issue,Low,Resolved,2025-10-14
+T00097,C232,2025-10-15,Billing,Low,Resolved,2025-10-20
+T00098,C124,2025-10-16,Billing,Medium,Resolved,2025-10-22
+T00099,C025,2025-10-18,Login Issue,High,Resolved,2025-10-23
+T00100,C312,2025-10-18,Performance,Medium,Resolved,2025-10-24
+T00101,C165,2025-10-20,Onboarding,High,Resolved,2025-10-23
+T00102,C168,2025-10-23,Onboarding,Medium,Resolved,2025-10-25
+T00103,C188,2025-10-23,Billing,Low,Resolved,2025-10-27
+T00104,C142,2025-10-27,Login Issue,Medium,Open,
+T00105,C317,2025-10-27,Performance,Low,Resolved,2025-11-02
+T00106,C123,2025-10-30,Billing,Low,Resolved,2025-10-30
+T00107,C099,2025-10-31,Bug,Medium,Resolved,2025-11-01
+T00108,C074,2025-11-02,Feature Request,Low,Resolved,2025-11-04
+T00109,C094,2025-11-02,Bug,Medium,Resolved,2025-11-04
+T00110,C277,2025-11-03,Feature Request,Medium,Resolved,2025-11-09
+T00111,C194,2025-11-04,Login Issue,Medium,Resolved,2025-11-05
+T00112,C155,2025-11-06,Performance,Medium,Resolved,2025-11-07
+T00113,C224,2025-11-08,Onboarding,Low,Resolved,2025-11-09
+T00114,C249,2025-11-10,Onboarding,Medium,Resolved,2025-11-11
+T00115,C248,2025-11-11,Login Issue,Medium,Resolved,2025-11-11
+T00116,C172,2025-11-12,Billing,Low,Resolved,2025-11-14
+T00117,C025,2025-11-13,Onboarding,Low,Resolved,2025-11-15
+T00118,C175,2025-11-13,Billing,Medium,Resolved,2025-11-19
+T00119,C175,2025-11-14,Login Issue,Medium,Resolved,2025-11-16
+T00120,C184,2025-11-14,Billing,Medium,Open,
+T00121,C268,2025-11-14,Feature Request,Medium,Resolved,2025-11-19
+T00122,C260,2025-11-15,Billing,Low,Resolved,2025-11-19
+T00123,C184,2025-11-16,Feature Request,Low,Resolved,2025-11-22
+T00124,C243,2025-11-16,Performance,Low,Resolved,2025-11-18
+T00125,C058,2025-11-19,Login Issue,Medium,Resolved,2025-11-21
+T00126,C117,2025-11-19,Login Issue,Medium,Resolved,2025-11-23
+T00127,C297,2025-11-19,Onboarding,Medium,Resolved,2025-11-25
+T00128,C204,2025-11-20,Performance,Medium,Resolved,2025-11-25
+T00129,C295,2025-11-20,Performance,Low,Resolved,2025-11-25
+T00130,C248,2025-11-21,Billing,Medium,Resolved,2025-11-22
+T00131,C137,2025-11-22,Login Issue,Low,Resolved,2025-11-25
+T00132,C249,2025-11-22,Feature Request,Low,Resolved,2025-11-28
+T00133,C100,2025-11-23,Billing,Low,Resolved,2025-11-28
+T00134,C155,2025-11-24,Bug,Low,Resolved,2025-11-30
+T00135,C240,2025-11-24,Login Issue,Low,Resolved,2025-11-28
+T00136,C260,2025-11-24,Bug,High,Open,
+T00137,C266,2025-11-25,Feature Request,Low,Resolved,2025-11-29
+T00138,C266,2025-11-25,Feature Request,Low,Resolved,2025-11-27
+T00139,C299,2025-11-25,Feature Request,Low,Resolved,2025-11-25
+T00140,C302,2025-11-26,Billing,Medium,Resolved,2025-11-28
+T00141,C081,2025-11-27,Performance,Medium,Resolved,2025-12-01
+T00142,C175,2025-11-27,Feature Request,Low,Resolved,2025-11-30
+T00143,C302,2025-11-29,Billing,Low,Resolved,2025-12-03
+T00144,C100,2025-11-30,Bug,Medium,Resolved,2025-11-30
+T00145,C260,2025-11-30,Login Issue,Medium,Open,
+T00146,C219,2025-12-02,Bug,Low,Resolved,2025-12-08
+T00147,C008,2025-12-04,Bug,Medium,Resolved,2025-12-05
+T00148,C141,2025-12-04,Performance,Low,Resolved,2025-12-07
+T00149,C189,2025-12-04,Bug,Low,Resolved,2025-12-07
+T00150,C052,2025-12-07,Onboarding,Low,Resolved,2025-12-12
+T00151,C306,2025-12-07,Bug,Low,Resolved,2025-12-08
+T00152,C163,2025-12-09,Feature Request,Low,Resolved,2025-12-11
+T00153,C041,2025-12-11,Performance,Medium,Resolved,2025-12-16
+T00154,C268,2025-12-12,Onboarding,Medium,Resolved,2025-12-13
+T00155,C302,2025-12-12,Login Issue,Low,Resolved,2025-12-15
+T00156,C278,2025-12-13,Bug,High,Resolved,2025-12-13
+T00157,C020,2025-12-14,Feature Request,Low,Resolved,2025-12-20
+T00158,C102,2025-12-15,Billing,Medium,Resolved,2025-12-15
+T00159,C073,2025-12-16,Bug,Medium,Resolved,2025-12-16
+T00160,C312,2025-12-19,Bug,Low,Resolved,2025-12-22
+T00161,C051,2025-12-20,Billing,High,Open,
+T00162,C075,2025-12-20,Performance,Low,Resolved,2025-12-26
+T00163,C096,2025-12-20,Bug,Medium,Resolved,2025-12-26
+T00164,C013,2025-12-22,Feature Request,Medium,Resolved,2025-12-27
+T00165,C020,2025-12-22,Login Issue,Low,Resolved,2025-12-26
+T00166,C183,2025-12-22,Billing,High,Resolved,2025-12-24
+T00167,C304,2025-12-23,Performance,Medium,Resolved,2025-12-23
+T00168,C008,2025-12-26,Billing,Low,Resolved,2025-12-30
+T00169,C045,2025-12-26,Feature Request,High,Resolved,2025-12-30
+T00170,C223,2025-12-28,Performance,High,Resolved,2026-01-01
+T00171,C278,2025-12-29,Performance,Low,Resolved,2025-12-31
+T00172,C273,2025-12-30,Onboarding,High,Resolved,2026-01-05
+T00173,C175,2025-12-31,Billing,Low,Resolved,2026-01-05
+T00174,C292,2026-01-01,Onboarding,Low,Resolved,2026-01-02
+T00175,C267,2026-01-04,Billing,Low,Resolved,2026-01-09
+T00176,C108,2026-01-05,Billing,Low,Resolved,2026-01-07
+T00177,C241,2026-01-05,Feature Request,Medium,Resolved,2026-01-05
+T00178,C051,2026-01-06,Bug,High,Open,
+T00179,C308,2026-01-06,Login Issue,Medium,Resolved,2026-01-09
+T00180,C163,2026-01-07,Feature Request,Low,Resolved,2026-01-11
+T00181,C270,2026-01-07,Performance,Medium,Resolved,2026-01-07
+T00182,C319,2026-01-07,Billing,Low,Resolved,2026-01-11
+T00183,C200,2026-01-08,Login Issue,Low,Resolved,2026-01-13
+T00184,C263,2026-01-09,Bug,Medium,Resolved,2026-01-09
+T00185,C189,2026-01-10,Performance,Medium,Resolved,2026-01-12
+T00186,C038,2026-01-11,Performance,Medium,Resolved,2026-01-11
+T00187,C313,2026-01-11,Bug,Low,Resolved,2026-01-11
+T00188,C025,2026-01-13,Onboarding,Low,Resolved,2026-01-18
+T00189,C026,2026-01-14,Bug,Low,Resolved,2026-01-15
+T00190,C143,2026-01-14,Bug,Medium,Open,
+T00191,C094,2026-01-17,Feature Request,Low,Resolved,2026-01-17
+T00192,C266,2026-01-17,Performance,Medium,Open,
+T00193,C292,2026-01-19,Bug,Low,Resolved,2026-01-23
+T00194,C312,2026-01-19,Login Issue,Low,Resolved,2026-01-20
+T00195,C168,2026-01-20,Performance,Medium,Resolved,2026-01-26
+T00196,C078,2026-01-21,Performance,Low,Resolved,2026-01-25
+T00197,C143,2026-01-21,Performance,Medium,Open,
+T00198,C165,2026-01-21,Billing,Medium,Resolved,2026-01-26
+T00199,C162,2026-01-23,Login Issue,Medium,Resolved,2026-01-25
+T00200,C278,2026-01-24,Billing,Medium,Resolved,2026-01-24
+T00201,C237,2026-01-27,Performance,Medium,Resolved,2026-01-28
+T00202,C002,2026-01-28,Performance,Low,Resolved,2026-01-29
+T00203,C223,2026-01-28,Performance,High,Open,
+T00204,C235,2026-01-28,Bug,High,Resolved,2026-02-01
+T00205,C297,2026-01-28,Feature Request,Low,Resolved,2026-02-02
+T00206,C128,2026-01-31,Login Issue,Medium,Resolved,2026-02-02
+T00207,C131,2026-02-01,Onboarding,Low,Resolved,2026-02-07
+T00208,C076,2026-02-02,Login Issue,Medium,Resolved,2026-02-08
+T00209,C108,2026-02-02,Feature Request,Low,Resolved,2026-02-03
+T00210,C312,2026-02-02,Login Issue,Low,Resolved,2026-02-08
+T00211,C290,2026-02-04,Performance,Medium,Resolved,2026-02-09
+T00212,C317,2026-02-04,Login Issue,Medium,Resolved,2026-02-09
+T00213,C062,2026-02-06,Login Issue,Low,Resolved,2026-02-08
+T00214,C004,2026-02-07,Performance,Medium,Resolved,2026-02-10
+T00215,C159,2026-02-07,Billing,Medium,Resolved,2026-02-10
+T00216,C223,2026-02-07,Feature Request,High,Open,
+T00217,C053,2026-02-08,Feature Request,Low,Resolved,2026-02-14
+T00218,C068,2026-02-08,Onboarding,High,Resolved,2026-02-11
+T00219,C102,2026-02-08,Bug,Low,Resolved,2026-02-14
+T00220,C219,2026-02-08,Performance,Low,Resolved,2026-02-12
+T00221,C236,2026-02-08,Login Issue,Low,Resolved,2026-02-09
+T00222,C288,2026-02-08,Billing,Medium,Resolved,2026-02-08
+T00223,C272,2026-02-09,Onboarding,Medium,Resolved,2026-02-10
+T00224,C198,2026-02-10,Onboarding,Medium,Resolved,2026-02-10
+T00225,C222,2026-02-10,Bug,Medium,Resolved,2026-02-13
+T00226,C096,2026-02-11,Performance,Low,Resolved,2026-02-13
+T00227,C261,2026-02-11,Login Issue,Low,Resolved,2026-02-13
+T00228,C313,2026-02-13,Billing,Medium,Resolved,2026-02-18
+T00229,C037,2026-02-14,Bug,Medium,Resolved,2026-02-18
+T00230,C038,2026-02-15,Billing,Low,Resolved,2026-02-19
+T00231,C263,2026-02-15,Performance,Medium,Resolved,2026-02-15
+T00232,C165,2026-02-16,Bug,Low,Resolved,2026-02-22
+T00233,C300,2026-02-16,Billing,Medium,Resolved,2026-02-22
+T00234,C003,2026-02-17,Onboarding,Medium,Resolved,2026-02-23
+T00235,C110,2026-02-17,Performance,Low,Resolved,2026-02-23
+T00236,C234,2026-02-18,Onboarding,Medium,Resolved,2026-02-24
+T00237,C108,2026-02-19,Login Issue,High,Resolved,2026-02-25
+T00238,C179,2026-02-19,Performance,Medium,Resolved,2026-02-23
+T00239,C277,2026-02-20,Performance,High,Resolved,2026-02-26
+T00240,C245,2026-02-23,Performance,Low,Resolved,2026-02-28
+T00241,C172,2026-02-24,Feature Request,Medium,Resolved,2026-02-25
+T00242,C189,2026-02-24,Performance,Medium,Resolved,2026-02-28
+T00243,C226,2026-02-24,Feature Request,High,Resolved,2026-02-26
+T00244,C102,2026-02-28,Performance,Medium,Resolved,2026-03-05
+T00245,C128,2026-03-01,Billing,High,Resolved,2026-03-05
+T00246,C017,2026-03-04,Billing,Low,Resolved,2026-03-07
+T00247,C032,2026-03-05,Login Issue,Low,Resolved,2026-03-08
+T00248,C079,2026-03-05,Billing,Low,Resolved,2026-03-06
+T00249,C280,2026-03-05,Login Issue,Low,Resolved,2026-03-07
+T00250,C049,2026-03-06,Performance,Medium,Resolved,2026-03-08
+T00251,C299,2026-03-07,Billing,High,Resolved,2026-03-07
+T00252,C135,2026-03-08,Performance,Medium,Resolved,2026-03-13
+T00253,C317,2026-03-08,Login Issue,Medium,Resolved,2026-03-09
+T00254,C102,2026-03-09,Billing,Medium,Resolved,2026-03-14
+T00255,C004,2026-03-10,Feature Request,Low,Resolved,2026-03-13
+T00256,C082,2026-03-12,Login Issue,Low,Resolved,2026-03-12
+T00257,C216,2026-03-12,Bug,High,Open,
+T00258,C175,2026-03-13,Feature Request,Low,Resolved,2026-03-15
+T00259,C278,2026-03-13,Login Issue,Medium,Resolved,2026-03-19
+T00260,C276,2026-03-14,Billing,Medium,Resolved,2026-03-19
+T00261,C041,2026-03-15,Feature Request,Medium,Resolved,2026-03-17
+T00262,C054,2026-03-16,Login Issue,Low,Resolved,2026-03-18
+T00263,C135,2026-03-16,Billing,Low,Resolved,2026-03-20
+T00264,C165,2026-03-16,Billing,Low,Resolved,2026-03-16
+T00265,C259,2026-03-16,Login Issue,High,Resolved,2026-03-22
+T00266,C285,2026-03-17,Billing,Medium,Open,
+T00267,C026,2026-03-18,Feature Request,Medium,Resolved,2026-03-24
+T00268,C216,2026-03-18,Login Issue,Low,Resolved,2026-03-23
+T00269,C053,2026-03-19,Feature Request,Low,Resolved,2026-03-21
+T00270,C085,2026-03-19,Performance,Low,Resolved,2026-03-22
+T00271,C163,2026-03-20,Feature Request,Low,Resolved,2026-03-22
+T00272,C032,2026-03-21,Bug,Low,Resolved,2026-03-21
+T00273,C226,2026-03-21,Feature Request,Medium,Resolved,2026-03-24
+T00274,C273,2026-03-21,Login Issue,High,Resolved,2026-03-25
+T00275,C077,2026-03-23,Feature Request,Medium,Resolved,2026-03-28
+T00276,C102,2026-03-23,Onboarding,Medium,Resolved,2026-03-28
+T00277,C201,2026-03-23,Feature Request,Medium,Resolved,2026-03-23
+T00278,C217,2026-03-23,Onboarding,Low,Resolved,2026-03-25
+T00279,C002,2026-03-24,Feature Request,Low,Resolved,2026-03-26
+T00280,C287,2026-03-24,Onboarding,Low,Resolved,2026-03-29
+T00281,C079,2026-03-25,Feature Request,Medium,Resolved,2026-03-25
+T00282,C080,2026-03-25,Login Issue,Low,Resolved,2026-03-25
+T00283,C180,2026-03-25,Login Issue,High,Resolved,2026-03-29
+T00284,C274,2026-03-25,Billing,Low,Resolved,2026-03-26
+T00285,C285,2026-03-25,Login Issue,High,Open,
+T00286,C201,2026-03-27,Bug,High,Resolved,2026-04-01
+T00287,C094,2026-03-28,Billing,Low,Resolved,2026-04-03
+T00288,C040,2026-03-29,Login Issue,Medium,Resolved,2026-04-02
+T00289,C041,2026-03-29,Billing,Low,Resolved,2026-03-30
+T00290,C121,2026-03-29,Performance,Medium,Resolved,2026-03-29
+T00291,C010,2026-03-30,Onboarding,Low,Resolved,2026-04-01
+T00292,C166,2026-03-31,Feature Request,Low,Resolved,2026-04-02
+T00293,C201,2026-03-31,Billing,High,Resolved,2026-04-05
+T00294,C311,2026-04-02,Billing,High,Resolved,2026-04-07
+T00295,C009,2026-04-04,Login Issue,Low,Resolved,2026-04-06
+T00296,C001,2026-04-06,Performance,Low,Resolved,2026-04-09
+T00297,C078,2026-04-06,Feature Request,Medium,Resolved,2026-04-09
+T00298,C249,2026-04-06,Feature Request,Medium,Resolved,2026-04-09
+T00299,C268,2026-04-06,Login Issue,Medium,Resolved,2026-04-12
+T00300,C259,2026-04-07,Bug,High,Resolved,2026-04-11
+T00301,C076,2026-04-12,Billing,Medium,Resolved,2026-04-14
+T00302,C242,2026-04-12,Login Issue,Medium,Resolved,2026-04-18
+T00303,C255,2026-04-12,Login Issue,Medium,Resolved,2026-04-15
+T00304,C040,2026-04-13,Login Issue,Low,Resolved,2026-04-19
+T00305,C131,2026-04-13,Login Issue,Low,Resolved,2026-04-16
+T00306,C191,2026-04-13,Billing,Medium,Resolved,2026-04-15
+T00307,C128,2026-04-14,Bug,Medium,Resolved,2026-04-15
+T00308,C020,2026-04-16,Bug,Low,Resolved,2026-04-16
+T00309,C019,2026-04-17,Performance,Low,Resolved,2026-04-19
+T00310,C081,2026-04-17,Performance,Medium,Resolved,2026-04-19
+T00311,C197,2026-04-17,Billing,High,Resolved,2026-04-17
+T00312,C234,2026-04-18,Feature Request,Medium,Resolved,2026-04-22
+T00313,C245,2026-04-18,Feature Request,Medium,Resolved,2026-04-22
+T00314,C013,2026-04-19,Performance,Low,Resolved,2026-04-24
+T00315,C078,2026-04-19,Login Issue,Low,Resolved,2026-04-23
+T00316,C109,2026-04-19,Onboarding,High,Resolved,2026-04-20
+T00317,C166,2026-04-19,Onboarding,Low,Resolved,2026-04-20
+T00318,C253,2026-04-19,Performance,Low,Resolved,2026-04-19
+T00319,C088,2026-04-20,Feature Request,Low,Resolved,2026-04-25
+T00320,C311,2026-04-21,Onboarding,Medium,Resolved,2026-04-21
+T00321,C008,2026-04-22,Feature Request,Low,Resolved,2026-04-26
+T00322,C100,2026-04-22,Feature Request,Medium,Resolved,2026-04-25
+T00323,C025,2026-04-23,Onboarding,Low,Resolved,2026-04-29
+T00324,C129,2026-04-23,Feature Request,Medium,Resolved,2026-04-23
+T00325,C317,2026-04-24,Performance,Medium,Resolved,2026-04-28
+T00326,C276,2026-04-25,Bug,Medium,Resolved,2026-04-28
+T00327,C283,2026-04-25,Bug,Medium,Resolved,2026-04-29
+T00328,C191,2026-04-26,Login Issue,Medium,Resolved,2026-04-29
+T00329,C045,2026-04-27,Login Issue,Low,Resolved,2026-05-03
+T00330,C137,2026-04-27,Performance,Low,Resolved,2026-05-03
+T00331,C239,2026-04-28,Login Issue,Medium,Resolved,2026-04-29
+T00332,C198,2026-04-29,Feature Request,Low,Resolved,2026-04-29
+T00333,C054,2026-04-30,Login Issue,Low,Resolved,2026-05-06
+T00334,C238,2026-05-01,Login Issue,Medium,Resolved,2026-05-03
+T00335,C236,2026-05-02,Billing,High,Resolved,2026-05-04
+T00336,C203,2026-05-04,Billing,Medium,Resolved,2026-05-09
+T00337,C095,2026-05-05,Bug,Medium,Resolved,2026-05-09
+T00338,C267,2026-05-06,Billing,Medium,Resolved,2026-05-08
+T00339,C313,2026-05-07,Onboarding,Medium,Resolved,2026-05-12
+T00340,C086,2026-05-08,Bug,High,Resolved,2026-05-12
+T00341,C136,2026-05-08,Performance,Medium,Resolved,2026-05-09
+T00342,C277,2026-05-08,Bug,High,Open,
+T00343,C313,2026-05-08,Login Issue,High,Resolved,2026-05-13
+T00344,C289,2026-05-09,Onboarding,Medium,Resolved,2026-05-10
+T00345,C056,2026-05-10,Performance,Medium,Resolved,2026-05-14
+T00346,C066,2026-05-10,Feature Request,Low,Resolved,2026-05-15
+T00347,C076,2026-05-10,Onboarding,High,Resolved,2026-05-16
+T00348,C124,2026-05-11,Performance,Low,Resolved,2026-05-16
+T00349,C240,2026-05-11,Login Issue,Medium,Resolved,2026-05-16
+T00350,C054,2026-05-12,Bug,Low,Resolved,2026-05-14
+T00351,C144,2026-05-12,Feature Request,Medium,Open,
+T00352,C148,2026-05-12,Feature Request,Low,Resolved,2026-05-12
+T00353,C263,2026-05-12,Onboarding,High,Resolved,2026-05-16
+T00354,C091,2026-05-13,Onboarding,High,Resolved,2026-05-19
+T00355,C109,2026-05-13,Performance,Medium,Resolved,2026-05-17
+T00356,C133,2026-05-13,Onboarding,Low,Resolved,2026-05-17
+T00357,C144,2026-05-13,Bug,Low,Resolved,2026-05-18
+T00358,C320,2026-05-13,Performance,Low,Resolved,2026-05-14
+T00359,C107,2026-05-14,Billing,Medium,Resolved,2026-05-18
+T00360,C313,2026-05-14,Performance,Medium,Resolved,2026-05-16
+T00361,C127,2026-05-15,Billing,Medium,Resolved,2026-05-20
+T00362,C037,2026-05-16,Bug,Low,Resolved,2026-05-21
+T00363,C191,2026-05-16,Feature Request,High,Resolved,2026-05-16
+T00364,C005,2026-05-17,Feature Request,High,Resolved,2026-05-21
+T00365,C170,2026-05-17,Onboarding,Low,Resolved,2026-05-17
+T00366,C245,2026-05-17,Onboarding,Low,Resolved,2026-05-23
+T00367,C302,2026-05-17,Bug,Low,Resolved,2026-05-22
+T00368,C086,2026-05-18,Feature Request,Low,Resolved,2026-05-18
+T00369,C245,2026-05-18,Feature Request,Low,Resolved,2026-05-24
+T00370,C056,2026-05-19,Performance,Medium,Resolved,2026-05-22
+T00371,C185,2026-05-19,Performance,Low,Resolved,2026-05-22
+T00372,C263,2026-05-20,Login Issue,Medium,Resolved,2026-05-26
+T00373,C115,2026-05-21,Bug,Low,Resolved,2026-05-23
+T00374,C168,2026-05-21,Billing,Medium,Resolved,2026-05-22
+T00375,C207,2026-05-21,Performance,Low,Resolved,2026-05-26
+T00376,C270,2026-05-21,Billing,High,Resolved,2026-05-23
+T00377,C277,2026-05-21,Billing,Medium,Open,
+T00378,C289,2026-05-22,Performance,Low,Resolved,2026-05-24
+T00379,C087,2026-05-23,Feature Request,Low,Resolved,2026-05-23
+T00380,C235,2026-05-23,Feature Request,Medium,Resolved,2026-05-28
+T00381,C064,2026-05-24,Billing,Low,Resolved,2026-05-27
+T00382,C237,2026-05-24,Bug,Medium,Resolved,2026-05-29
+T00383,C270,2026-05-24,Onboarding,Low,Resolved,2026-05-30
+T00384,C289,2026-05-24,Billing,Low,Resolved,2026-05-29
+T00385,C093,2026-05-25,Feature Request,Low,Resolved,2026-05-25
+T00386,C203,2026-05-25,Login Issue,Medium,Resolved,2026-05-31
+T00387,C297,2026-05-25,Billing,High,Resolved,2026-05-29
+T00388,C187,2026-05-26,Login Issue,Low,Resolved,2026-05-29
+T00389,C309,2026-05-26,Feature Request,Low,Resolved,2026-05-30
+T00390,C071,2026-05-28,Performance,Low,Resolved,2026-05-29
+T00391,C156,2026-05-28,Bug,Low,Resolved,2026-05-29
+T00392,C283,2026-05-28,Billing,Medium,Resolved,2026-05-28
+T00393,C288,2026-05-28,Bug,Medium,Resolved,2026-05-28
+T00394,C100,2026-05-29,Billing,High,Resolved,2026-06-01
+T00395,C177,2026-05-29,Bug,High,Resolved,2026-06-03
+T00396,C252,2026-05-30,Feature Request,Low,Resolved,2026-05-31
+T00397,C162,2026-05-31,Performance,Low,Resolved,2026-06-06
+T00398,C088,2026-06-01,Performance,Low,Resolved,2026-06-06
+T00399,C188,2026-06-01,Login Issue,Medium,Resolved,2026-06-07
+T00400,C253,2026-06-01,Login Issue,Low,Resolved,2026-06-01
+T00401,C149,2026-06-03,Onboarding,Low,Resolved,2026-06-04
+T00402,C056,2026-06-04,Login Issue,Low,Resolved,2026-06-06
+T00403,C190,2026-06-04,Feature Request,Medium,Resolved,2026-06-09
+T00404,C290,2026-06-04,Onboarding,Low,Resolved,2026-06-05
+T00405,C068,2026-06-05,Feature Request,High,Resolved,2026-06-11
+T00406,C086,2026-06-05,Billing,Medium,Resolved,2026-06-09
+T00407,C112,2026-06-05,Login Issue,Medium,Resolved,2026-06-06
+T00408,C094,2026-06-06,Performance,Low,Resolved,2026-06-11
+T00409,C180,2026-06-06,Performance,Low,Resolved,2026-06-06
+T00410,C276,2026-06-07,Onboarding,High,Open,
+T00411,C052,2026-06-08,Performance,Low,Resolved,2026-06-11
+T00412,C174,2026-06-08,Performance,High,Open,
+T00413,C074,2026-06-09,Billing,Medium,Resolved,2026-06-10
+T00414,C167,2026-06-09,Bug,Low,Resolved,2026-06-11
+T00415,C042,2026-06-10,Onboarding,High,Open,
+T00416,C204,2026-06-11,Billing,Low,Resolved,2026-06-16
+T00417,C144,2026-06-12,Bug,High,Open,
+T00418,C174,2026-06-12,Bug,High,Open,
+T00419,C193,2026-06-12,Login Issue,High,Resolved,2026-06-14
+T00420,C236,2026-06-15,Login Issue,Medium,Resolved,2026-06-16
+T00421,C259,2026-06-15,Performance,Medium,Resolved,2026-06-17
+T00422,C295,2026-06-15,Login Issue,Medium,Open,
+T00423,C174,2026-06-16,Feature Request,Medium,Resolved,2026-06-17
+T00424,C047,2026-06-17,Feature Request,Medium,Resolved,2026-06-20
+T00425,C150,2026-06-17,Bug,High,Resolved,2026-06-20
+T00426,C010,2026-06-19,Performance,Medium,Resolved,2026-06-20
+T00427,C134,2026-06-19,Feature Request,Low,Resolved,2026-06-21
+T00428,C158,2026-06-20,Onboarding,High,Open,
+T00429,C294,2026-06-20,Login Issue,Low,Resolved,2026-06-25
+T00430,C041,2026-06-21,Performance,Medium,Resolved,2026-06-25
+T00431,C148,2026-06-21,Login Issue,Medium,Resolved,2026-06-21
+T00432,C267,2026-06-21,Performance,Medium,Resolved,2026-06-27
+T00433,C284,2026-06-21,Billing,Low,Resolved,2026-06-23
+T00434,C073,2026-06-22,Login Issue,Medium,Resolved,2026-06-22
+T00435,C209,2026-06-22,Login Issue,High,Resolved,2026-06-23
+T00436,C128,2026-06-23,Bug,Medium,Resolved,2026-06-25
+T00437,C158,2026-06-23,Login Issue,High,Open,
+T00438,C193,2026-06-23,Performance,Low,Resolved,2026-06-28
+T00439,C252,2026-06-23,Onboarding,Low,Resolved,2026-06-27
+T00440,C295,2026-06-23,Performance,Low,Resolved,2026-06-29
+T00441,C320,2026-06-23,Feature Request,Medium,Resolved,2026-06-25
+T00442,C007,2026-06-24,Feature Request,Low,Resolved,2026-06-27
+T00443,C056,2026-06-24,Billing,Medium,Resolved,2026-06-24
+T00444,C189,2026-06-24,Login Issue,Low,Resolved,2026-06-26
+T00445,C181,2026-06-25,Billing,Low,Resolved,2026-07-01
+T00446,C295,2026-06-26,Login Issue,Medium,Open,
+T00447,C171,2026-06-27,Feature Request,Low,Resolved,2026-06-30
+T00448,C087,2026-06-28,Login Issue,Medium,Resolved,2026-06-29
+T00449,C290,2026-06-28,Onboarding,Medium,Resolved,2026-06-30
+T00450,C107,2026-06-29,Bug,Medium,Resolved,2026-07-04
+T00451,C169,2026-06-29,Bug,High,Resolved,2026-07-04
+T00452,C033,2026-06-30,Bug,Low,Resolved,2026-07-01
+T00453,C237,2026-06-30,Feature Request,Low,Resolved,2026-06-30
+T00454,C297,2026-06-30,Onboarding,Low,Resolved,2026-07-03
+T00455,C283,2026-07-01,Onboarding,Low,Resolved,2026-07-06
+T00456,C007,2026-07-02,Feature Request,Low,Resolved,2026-07-02
+T00457,C064,2026-07-02,Onboarding,High,Resolved,2026-07-07
+T00458,C205,2026-07-02,Billing,Medium,Resolved,2026-07-02
+T00459,C222,2026-07-02,Feature Request,Low,Resolved,2026-07-04
+T00460,C031,2026-07-03,Login Issue,Low,Resolved,2026-07-09
+T00461,C022,2026-07-04,Login Issue,High,Resolved,2026-07-04
+T00462,C039,2026-07-05,Feature Request,Low,Resolved,2026-07-10
+T00463,C136,2026-07-05,Feature Request,Low,Resolved,2026-07-05
+T00464,C153,2026-07-06,Billing,Medium,Resolved,2026-07-11
+T00465,C205,2026-07-07,Feature Request,Low,Resolved,2026-07-10
+T00466,C041,2026-07-08,Billing,Medium,Resolved,2026-07-11
+T00467,C068,2026-07-08,Login Issue,Low,Resolved,2026-07-10
+T00468,C201,2026-07-08,Login Issue,High,Open,
+T00469,C023,2026-07-10,Feature Request,Low,Resolved,2026-07-14
+T00470,C239,2026-07-11,Onboarding,Medium,Resolved,2026-07-17
+T00471,C128,2026-07-12,Onboarding,Low,Resolved,2026-07-14
+T00472,C173,2026-07-12,Login Issue,High,Resolved,2026-07-12
+T00473,C251,2026-07-13,Feature Request,Low,Resolved,2026-07-18
+T00474,C252,2026-07-13,Onboarding,Medium,Open,
+T00475,C312,2026-07-13,Performance,Low,Resolved,2026-07-17
+T00476,C025,2026-07-14,Feature Request,High,Resolved,2026-07-20
+T00477,C095,2026-07-14,Bug,Medium,Resolved,2026-07-20
+T00478,C107,2026-07-14,Performance,Medium,Resolved,2026-07-16
+T00479,C129,2026-07-14,Bug,Medium,Resolved,2026-07-18
+T00480,C141,2026-07-14,Login Issue,Medium,Resolved,2026-07-14
+T00481,C191,2026-07-14,Billing,Low,Resolved,2026-07-14
+T00482,C233,2026-07-14,Performance,Low,Resolved,2026-07-15
+T00483,C265,2026-07-14,Login Issue,High,Resolved,2026-07-14
+T00484,C290,2026-07-14,Onboarding,Medium,Resolved,2026-07-17
+T00485,C125,2026-07-15,Bug,Medium,Resolved,2026-07-20
+T00486,C180,2026-07-15,Onboarding,Medium,Resolved,2026-07-18
+T00487,C047,2026-07-16,Performance,Low,Resolved,2026-07-18
+T00488,C222,2026-07-16,Performance,Low,Resolved,2026-07-22
+T00489,C299,2026-07-16,Performance,Low,Resolved,2026-07-16
+T00490,C162,2026-07-17,Login Issue,Low,Resolved,2026-07-21
+T00491,C058,2026-07-18,Feature Request,Low,Resolved,2026-07-24
+T00492,C111,2026-07-18,Performance,Medium,Resolved,2026-07-18
+T00493,C319,2026-07-18,Feature Request,High,Resolved,2026-07-24
+T00494,C270,2026-07-19,Billing,Medium,Resolved,2026-07-22
+T00495,C261,2026-07-20,Billing,Medium,Resolved,2026-07-22
+T00496,C253,2026-07-21,Onboarding,Medium,Resolved,2026-07-25
+T00497,C259,2026-07-22,Bug,Medium,Resolved,2026-07-28
+T00498,C315,2026-07-22,Bug,Low,Resolved,2026-07-24
+T00499,C201,2026-07-23,Login Issue,High,Open,
+T00500,C203,2026-07-23,Feature Request,Medium,Resolved,2026-07-27
+T00501,C315,2026-07-23,Performance,Medium,Resolved,2026-07-25
+T00502,C109,2026-07-24,Onboarding,Medium,Resolved,2026-07-26
+T00503,C226,2026-07-25,Login Issue,High,Resolved,2026-07-25
+T00504,C269,2026-07-27,Login Issue,High,Open,
+T00505,C269,2026-07-27,Billing,Medium,Open,
+T00506,C301,2026-07-29,Performance,Medium,Open,
+T00507,C234,2026-07-30,Performance,Low,Resolved,2026-07-31
+T00508,C044,2026-08-01,Onboarding,Low,Resolved,2026-08-06
+T00509,C083,2026-08-01,Billing,High,Resolved,2026-08-05
+T00510,C115,2026-08-01,Login Issue,Low,Resolved,2026-08-01
+T00511,C252,2026-08-01,Billing,Low,Resolved,2026-08-06
+T00512,C298,2026-08-01,Feature Request,Low,Resolved,2026-08-03
+T00513,C044,2026-08-02,Onboarding,Low,Resolved,2026-08-05
+T00514,C054,2026-08-02,Bug,High,Resolved,2026-08-04
+T00515,C149,2026-08-02,Feature Request,Low,Resolved,2026-08-08
+T00516,C173,2026-08-02,Bug,High,Resolved,2026-08-08
+T00517,C253,2026-08-02,Onboarding,Medium,Resolved,2026-08-03
+T00518,C301,2026-08-02,Performance,Low,Resolved,2026-08-04
+T00519,C103,2026-08-03,Onboarding,High,Resolved,2026-08-06
+T00520,C133,2026-08-04,Bug,Low,Resolved,2026-08-10
+T00521,C109,2026-08-05,Performance,Low,Resolved,2026-08-10
+T00522,C172,2026-08-05,Billing,High,Resolved,2026-08-10
+T00523,C133,2026-08-06,Bug,Medium,Resolved,2026-08-12
+T00524,C258,2026-08-06,Feature Request,Low,Resolved,2026-08-06
+T00525,C308,2026-08-06,Login Issue,Low,Resolved,2026-08-11
+T00526,C256,2026-08-07,Feature Request,Medium,Resolved,2026-08-08
+T00527,C297,2026-08-07,Performance,Medium,Resolved,2026-08-12
+T00528,C252,2026-08-08,Login Issue,High,Resolved,2026-08-08
+T00529,C167,2026-08-09,Billing,Medium,Resolved,2026-08-11
+T00530,C025,2026-08-11,Onboarding,Low,Resolved,2026-08-13
+T00531,C083,2026-08-11,Bug,Medium,Resolved,2026-08-15
+T00532,C112,2026-08-11,Onboarding,Medium,Resolved,2026-08-14
+T00533,C156,2026-08-11,Bug,Medium,Open,
+T00534,C212,2026-08-11,Login Issue,Low,Resolved,2026-08-16
+T00535,C140,2026-08-12,Billing,Low,Resolved,2026-08-14
+T00536,C172,2026-08-12,Billing,Medium,Resolved,2026-08-16
+T00537,C298,2026-08-12,Onboarding,Medium,Resolved,2026-08-14
+T00538,C112,2026-08-13,Login Issue,Low,Resolved,2026-08-15
+T00539,C212,2026-08-13,Billing,Low,Resolved,2026-08-16
+T00540,C125,2026-08-14,Login Issue,Medium,Resolved,2026-08-19
+T00541,C182,2026-08-14,Feature Request,Low,Resolved,2026-08-17
+T00542,C199,2026-08-14,Feature Request,Medium,Open,
+T00543,C073,2026-08-15,Onboarding,Low,Resolved,2026-08-18
+T00544,C156,2026-08-15,Feature Request,High,Open,
+T00545,C221,2026-08-15,Feature Request,Medium,Resolved,2026-08-18
+T00546,C248,2026-08-15,Billing,Low,Resolved,2026-08-17
+T00547,C314,2026-08-15,Onboarding,Medium,Resolved,2026-08-21
+T00548,C097,2026-08-16,Login Issue,High,Open,
+T00549,C252,2026-08-16,Bug,High,Open,
+T00550,C265,2026-08-16,Bug,Low,Resolved,2026-08-20
+T00551,C298,2026-08-16,Login Issue,Low,Resolved,2026-08-16
+T00552,C011,2026-08-17,Performance,Low,Resolved,2026-08-19
+T00553,C013,2026-08-17,Login Issue,High,Open,
+T00554,C030,2026-08-17,Login Issue,High,In Progress,
+T00555,C294,2026-08-17,Performance,High,Open,
+T00556,C039,2026-08-18,Onboarding,Low,Resolved,2026-08-19
+T00557,C048,2026-08-18,Feature Request,Low,Resolved,2026-08-22
+T00558,C122,2026-08-18,Login Issue,Medium,Resolved,2026-08-22
+T00559,C171,2026-08-18,Billing,Low,Resolved,2026-08-18
+T00560,C290,2026-08-18,Login Issue,Medium,Resolved,2026-08-22
+T00561,C022,2026-08-19,Login Issue,High,Open,
+T00562,C137,2026-08-19,Bug,Low,Resolved,2026-08-21
+T00563,C045,2026-08-20,Bug,High,In Progress,
+T00564,C294,2026-08-20,Performance,Medium,Open,
+T00565,C318,2026-08-20,Feature Request,Medium,Resolved,2026-08-22
+T00566,C183,2026-08-21,Billing,High,Open,
+T00567,C298,2026-08-21,Login Issue,High,Open,
+T00568,C298,2026-08-21,Performance,High,Open,
+T00569,C057,2026-08-22,Performance,Low,Resolved,2026-08-25
+T00570,C119,2026-08-22,Login Issue,High,Open,
+T00571,C119,2026-08-22,Billing,High,In Progress,
+T00572,C069,2026-08-23,Onboarding,Medium,Resolved,2026-08-25
+T00573,C094,2026-08-23,Login Issue,Medium,Resolved,2026-08-24
+T00574,C121,2026-08-23,Bug,High,Open,
+T00575,C256,2026-08-23,Performance,Low,Resolved,2026-08-27
+T00576,C030,2026-08-24,Performance,High,Open,
+T00577,C112,2026-08-24,Onboarding,Medium,Resolved,2026-08-28
+T00578,C198,2026-08-24,Performance,Low,Resolved,2026-08-25
+T00579,C225,2026-08-24,Onboarding,High,Resolved,2026-08-29
+T00580,C257,2026-08-24,Feature Request,Medium,Resolved,2026-08-29
+T00581,C271,2026-08-24,Performance,High,Open,
+T00582,C085,2026-08-25,Feature Request,High,Resolved,2026-08-28
+T00583,C191,2026-08-25,Performance,Low,Resolved,2026-08-30
+T00584,C311,2026-08-25,Onboarding,Low,Resolved,2026-08-30
+T00585,C069,2026-08-26,Billing,Medium,Resolved,2026-08-27
+T00586,C290,2026-08-26,Billing,Medium,Resolved,2026-08-28
+T00587,C024,2026-08-27,Billing,Low,Resolved,2026-08-29
+T00588,C111,2026-08-27,Performance,Low,Resolved,2026-08-28
+T00589,C131,2026-08-27,Bug,High,Open,
+T00590,C274,2026-08-27,Login Issue,Medium,Resolved,2026-08-29
+T00591,C132,2026-08-28,Bug,High,Open,
+T00592,C221,2026-08-28,Performance,Medium,Resolved,2026-09-03
+T00593,C258,2026-08-28,Bug,High,Open,
+T00594,C007,2026-08-29,Login Issue,Low,Resolved,2026-09-03
+T00595,C121,2026-08-29,Performance,Medium,In Progress,
+T00596,C271,2026-08-29,Performance,High,Open,
+T00597,C092,2026-08-30,Performance,Medium,Resolved,2026-08-31
+T00598,C089,2026-08-31,Login Issue,Medium,Resolved,2026-08-31
+T00599,C132,2026-08-31,Billing,Medium,Resolved,2026-09-01
+T00600,C183,2026-08-31,Billing,Medium,In Progress,
+T00601,C297,2026-08-31,Feature Request,Medium,Resolved,2026-09-05
+T00602,C111,2026-09-01,Billing,Medium,Resolved,2026-09-07
+T00603,C121,2026-09-01,Billing,High,Open,
+T00604,C169,2026-09-01,Billing,High,Open,
+T00605,C212,2026-09-01,Billing,Medium,Resolved,2026-09-05
+T00606,C268,2026-09-01,Billing,Low,Resolved,2026-09-05
+T00607,C074,2026-09-02,Bug,Low,Resolved,2026-09-05
+T00608,C100,2026-09-02,Onboarding,Low,Resolved,2026-09-02
+T00609,C169,2026-09-02,Performance,High,Open,
+T00610,C196,2026-09-02,Billing,Medium,Resolved,2026-09-06
+T00611,C251,2026-09-02,Bug,Low,Resolved,2026-09-06
+T00612,C008,2026-09-03,Feature Request,Low,Resolved,2026-09-07
+T00613,C013,2026-09-03,Performance,High,In Progress,
+T00614,C048,2026-09-03,Onboarding,High,Resolved,2026-09-06
+T00615,C050,2026-09-03,Performance,Low,Resolved,2026-09-09
+T00616,C155,2026-09-03,Billing,Medium,Resolved,2026-09-07
+T00617,C271,2026-09-03,Billing,Medium,In Progress,
+T00618,C106,2026-09-04,Performance,Medium,Resolved,2026-09-09
+T00619,C132,2026-09-04,Bug,High,Open,
+T00620,C183,2026-09-04,Billing,Medium,Resolved,2026-09-08
+T00621,C248,2026-09-05,Bug,Medium,In Progress,
+T00622,C013,2026-09-06,Performance,High,Open,
+T00623,C041,2026-09-06,Login Issue,Medium,Resolved,2026-09-10
+T00624,C058,2026-09-06,Bug,High,Open,
+T00625,C140,2026-09-06,Performance,Low,Resolved,2026-09-06
+T00626,C146,2026-09-06,Onboarding,Medium,Resolved,2026-09-09
+T00627,C183,2026-09-06,Performance,High,In Progress,
+T00628,C258,2026-09-06,Bug,High,Open,
+T00629,C272,2026-09-06,Onboarding,Medium,Resolved,2026-09-08
+T00630,C127,2026-09-07,Feature Request,Low,Resolved,2026-09-07
+T00631,C300,2026-09-07,Performance,Low,Resolved,2026-09-13
+T00632,C015,2026-09-08,Performance,Medium,Resolved,2026-09-11
+T00633,C028,2026-09-08,Performance,Low,Resolved,2026-09-11
+T00634,C099,2026-09-08,Performance,High,Resolved,2026-09-10
+T00635,C232,2026-09-08,Performance,Medium,Resolved,2026-09-09
+T00636,C058,2026-09-09,Billing,High,Open,
+T00637,C091,2026-09-09,Bug,Low,Resolved,2026-09-15
+T00638,C227,2026-09-09,Feature Request,Low,In Progress,
+T00639,C245,2026-09-09,Performance,High,Open,
+T00640,C248,2026-09-09,Billing,Medium,Open,
+T00641,C117,2026-09-10,Bug,Low,Resolved,2026-09-11
+T00642,C129,2026-09-10,Bug,Medium,Resolved,2026-09-16
+T00643,C138,2026-09-10,Login Issue,Medium,Resolved,2026-09-16
+T00644,C088,2026-09-11,Login Issue,Medium,Open,
+T00645,C114,2026-09-11,Login Issue,Low,Resolved,2026-09-14
+T00646,C188,2026-09-11,Onboarding,Low,In Progress,
+T00647,C151,2026-09-12,Bug,Medium,Open,
+T00648,C097,2026-09-13,Billing,Medium,Open,
+T00649,C128,2026-09-14,Billing,High,Resolved,2026-09-17
+T00650,C245,2026-09-14,Bug,High,Open,
+T00651,C091,2026-09-15,Bug,Medium,Open,
+T00652,C131,2026-09-15,Performance,Low,In Progress,
+T00653,C170,2026-09-15,Login Issue,Low,Resolved,2026-09-16
+T00654,C175,2026-09-15,Bug,Low,Resolved,2026-09-21
+T00655,C243,2026-09-15,Bug,Low,Resolved,2026-09-18
+T00656,C306,2026-09-15,Performance,Low,Resolved,2026-09-18
+T00657,C030,2026-09-16,Login Issue,High,Open,
+T00658,C080,2026-09-16,Billing,Low,Resolved,2026-09-18
+T00659,C131,2026-09-16,Billing,High,Open,
+T00660,C076,2026-09-17,Billing,Medium,Resolved,2026-09-21
+T00661,C131,2026-09-17,Feature Request,Low,Resolved,2026-09-20
+T00662,C171,2026-09-17,Login Issue,Low,Resolved,2026-09-19
+T00663,C173,2026-09-17,Performance,Low,Resolved,2026-09-18
+T00664,C208,2026-09-17,Performance,High,In Progress,
+T00665,C258,2026-09-17,Performance,High,Open,
+T00666,C102,2026-09-18,Onboarding,Medium,Open,
+T00667,C108,2026-09-18,Onboarding,Low,Resolved,2026-09-24
+T00668,C192,2026-09-18,Billing,Low,Resolved,2026-09-20
+T00669,C259,2026-09-18,Login Issue,Medium,Resolved,2026-09-22
+T00670,C045,2026-09-19,Performance,Medium,In Progress,
+T00671,C047,2026-09-19,Performance,Low,In Progress,
+T00672,C061,2026-09-19,Onboarding,Low,In Progress,
+T00673,C082,2026-09-19,Performance,High,Resolved,2026-09-23
+T00674,C192,2026-09-19,Login Issue,Low,In Progress,
+T00675,C022,2026-09-20,Performance,Medium,Open,
+T00676,C037,2026-09-20,Login Issue,Low,In Progress,
+T00677,C067,2026-09-20,Billing,Low,Resolved,2026-09-21
+T00678,C092,2026-09-20,Feature Request,Low,Resolved,2026-09-21
+T00679,C006,2026-09-21,Performance,Medium,Resolved,2026-09-23
+T00680,C007,2026-09-21,Onboarding,High,Resolved,2026-09-23
+T00681,C022,2026-09-21,Bug,High,Open,
+T00682,C257,2026-09-21,Login Issue,High,In Progress,
+T00683,C046,2026-09-22,Billing,High,Open,
+T00684,C106,2026-09-22,Onboarding,Low,Resolved,2026-09-22
+T00685,C245,2026-09-22,Login Issue,Medium,In Progress,
+T00686,C086,2026-09-23,Login Issue,Medium,Open,
+T00687,C097,2026-09-23,Performance,High,In Progress,
+T00688,C149,2026-09-23,Onboarding,Medium,Resolved,2026-09-28
+T00689,C189,2026-09-23,Feature Request,Medium,Resolved,2026-09-24
+T00690,C221,2026-09-23,Bug,Low,Open,
+T00691,C247,2026-09-24,Login Issue,Medium,Open,
+T00692,C259,2026-09-24,Onboarding,Low,Resolved,2026-09-30
+T00693,C236,2026-09-27,Bug,Medium,Resolved,2026-09-27
+T00694,C074,2026-09-28,Billing,Medium,Open,
+T00695,C271,2026-09-28,Login Issue,Low,Resolved,2026-09-30
+T00696,C188,2026-09-29,Performance,High,Resolved,2026-09-30
+T00697,C268,2026-09-29,Performance,Low,In Progress,
+T00698,C286,2026-09-29,Billing,Low,Resolved,2026-09-30
+T00699,C029,2026-09-30,Performance,Medium,In Progress,
+T00700,C065,2026-09-30,Billing,Medium,Resolved,2026-09-30
+T00701,C272,2026-09-30,Onboarding,Medium,Open,
+T00702,C289,2026-09-30,Onboarding,Medium,In Progress,

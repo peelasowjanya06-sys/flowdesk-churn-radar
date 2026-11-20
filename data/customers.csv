@@ -1,0 +1,321 @@
+customer_id,signup_date,country,acquisition_channel
+C001,2026-01-28,India,Partner
+C002,2025-09-19,United Kingdom,Organic Search
+C003,2025-10-12,India,Organic Search
+C004,2025-12-24,India,Referral
+C005,2026-04-08,United States,Partner
+C006,2026-07-13,India,Referral
+C007,2026-03-30,United States,Partner
+C008,2025-02-27,India,Organic Search
+C009,2026-04-01,India,Referral
+C010,2025-07-18,Singapore,Organic Search
+C011,2026-08-13,United Kingdom,Referral
+C012,2026-08-14,UAE,Referral
+C013,2025-09-26,Singapore,Referral
+C014,2026-05-11,India,Referral
+C015,2026-05-03,India,Organic Search
+C016,2025-05-13,India,Email Campaign
+C017,2025-09-24,India,Organic Search
+C018,2026-04-02,India,Referral
+C019,2025-06-28,India,Social Media
+C020,2025-04-09,India,Paid Ads
+C021,2026-04-16,India,Referral
+C022,2026-06-21,India,Referral
+C023,2026-03-24,India,Organic Search
+C024,2026-05-30,India,Social Media
+C025,2025-09-30,India,Email Campaign
+C026,2025-07-03,India,Organic Search
+C027,2025-09-19,India,Social Media
+C028,2026-07-08,India,Organic Search
+C029,2026-08-29,UAE,Social Media
+C030,2026-05-23,United Kingdom,Social Media
+C031,2026-04-20,India,Email Campaign
+C032,2025-12-23,India,Organic Search
+C033,2026-03-12,India,Email Campaign
+C034,2025-05-15,India,Partner
+C035,2026-07-11,UAE,Referral
+C036,2026-06-29,UAE,Social Media
+C037,2025-10-26,Singapore,Partner
+C038,2025-09-04,Singapore,Email Campaign
+C039,2026-05-17,India,Referral
+C040,2026-03-15,India,Organic Search
+C041,2025-11-01,India,Organic Search
+C042,2026-05-14,India,Partner
+C043,2026-06-20,United States,Partner
+C044,2026-03-17,UAE,Social Media
+C045,2025-12-03,India,Paid Ads
+C046,2026-08-13,India,Partner
+C047,2025-06-02,India,Organic Search
+C048,2025-01-28,India,Referral
+C049,2025-04-09,India,Organic Search
+C050,2026-04-27,India,Email Campaign
+C051,2025-06-13,India,Organic Search
+C052,2025-06-04,India,Organic Search
+C053,2025-12-10,Singapore,Paid Ads
+C054,2025-06-15,Singapore,Paid Ads
+C055,2025-05-02,UAE,Organic Search
+C056,2026-03-24,India,Email Campaign
+C057,2026-06-06,India,Referral
+C058,2025-02-10,Singapore,Organic Search
+C059,2026-07-12,United Kingdom,Paid Ads
+C060,2026-08-03,Singapore,Social Media
+C061,2026-08-14,India,Partner
+C062,2025-06-05,United Kingdom,Organic Search
+C063,2026-08-28,India,Organic Search
+C064,2025-10-17,United Kingdom,Organic Search
+C065,2026-08-27,United Kingdom,Referral
+C066,2026-01-13,India,Referral
+C067,2026-08-06,United Kingdom,Referral
+C068,2025-05-04,India,Email Campaign
+C069,2026-01-22,Singapore,Social Media
+C070,2025-09-18,India,Paid Ads
+C071,2025-09-25,India,Email Campaign
+C072,2026-03-14,United Kingdom,Partner
+C073,2025-04-29,United States,Partner
+C074,2025-05-03,India,Referral
+C075,2025-10-31,Singapore,Referral
+C076,2025-08-16,India,Social Media
+C077,2026-02-25,India,Paid Ads
+C078,2025-01-23,Singapore,Paid Ads
+C079,2026-01-17,United States,Referral
+C080,2025-11-25,India,Organic Search
+C081,2025-09-22,India,Organic Search
+C082,2026-01-30,India,Organic Search
+C083,2026-05-03,India,Organic Search
+C084,2026-08-10,India,Email Campaign
+C085,2025-09-06,India,Referral
+C086,2026-01-30,India,Paid Ads
+C087,2026-03-02,India,Organic Search
+C088,2026-04-01,India,Paid Ads
+C089,2026-06-01,India,Social Media
+C090,2026-07-27,India,Referral
+C091,2025-11-09,India,Paid Ads
+C092,2025-09-23,India,Email Campaign
+C093,2025-06-28,India,Social Media
+C094,2025-07-12,Singapore,Organic Search
+C095,2026-01-13,India,Referral
+C096,2025-03-06,India,Organic Search
+C097,2026-02-20,India,Paid Ads
+C098,2025-04-19,India,Social Media
+C099,2025-08-23,India,Organic Search
+C100,2025-08-02,India,Email Campaign
+C101,2026-06-05,UAE,Referral
+C102,2025-05-22,United Kingdom,Referral
+C103,2025-02-23,United Kingdom,Partner
+C104,2026-06-19,India,Referral
+C105,2025-10-24,India,Paid Ads
+C106,2026-06-30,UAE,Referral
+C107,2026-04-22,India,Paid Ads
+C108,2025-12-31,India,Referral
+C109,2025-07-12,India,Referral
+C110,2025-12-31,India,Organic Search
+C111,2026-02-22,Singapore,Organic Search
+C112,2026-05-25,India,Paid Ads
+C113,2025-12-04,India,Paid Ads
+C114,2026-06-28,India,Social Media
+C115,2025-03-16,India,Social Media
+C116,2025-03-09,India,Referral
+C117,2025-09-28,India,Referral
+C118,2026-06-03,India,Paid Ads
+C119,2026-01-14,India,Organic Search
+C120,2026-04-23,Singapore,Organic Search
+C121,2025-10-06,United Kingdom,Paid Ads
+C122,2026-06-29,India,Organic Search
+C123,2025-08-27,India,Paid Ads
+C124,2025-09-12,India,Paid Ads
+C125,2026-06-28,United Kingdom,Partner
+C126,2026-08-17,India,Paid Ads
+C127,2026-01-16,India,Email Campaign
+C128,2025-11-05,India,Partner
+C129,2025-12-02,India,Paid Ads
+C130,2026-08-19,India,Referral
+C131,2025-12-04,India,Referral
+C132,2025-02-05,India,Paid Ads
+C133,2025-08-24,India,Organic Search
+C134,2026-01-22,India,Partner
+C135,2026-02-15,United States,Organic Search
+C136,2026-05-03,United Kingdom,Social Media
+C137,2025-10-20,India,Email Campaign
+C138,2026-08-21,India,Referral
+C139,2025-02-16,United Kingdom,Partner
+C140,2025-12-26,India,Organic Search
+C141,2025-11-03,India,Partner
+C142,2025-08-29,India,Organic Search
+C143,2025-09-12,Singapore,Paid Ads
+C144,2026-03-16,Singapore,Paid Ads
+C145,2026-08-12,India,Organic Search
+C146,2026-08-13,India,Social Media
+C147,2026-04-28,United States,Organic Search
+C148,2025-10-01,India,Organic Search
+C149,2025-12-05,United Kingdom,Email Campaign
+C150,2026-04-04,UAE,Organic Search
+C151,2025-09-21,India,Email Campaign
+C152,2026-07-19,United Kingdom,Partner
+C153,2026-04-21,UAE,Referral
+C154,2026-07-31,United Kingdom,Referral
+C155,2025-07-31,United Kingdom,Partner
+C156,2026-02-03,UAE,Referral
+C157,2026-07-01,India,Partner
+C158,2026-05-05,India,Organic Search
+C159,2025-07-03,India,Referral
+C160,2026-03-06,India,Referral
+C161,2026-07-15,India,Paid Ads
+C162,2026-01-20,United Kingdom,Email Campaign
+C163,2025-10-16,India,Organic Search
+C164,2025-09-30,United States,Paid Ads
+C165,2025-04-28,India,Organic Search
+C166,2025-10-14,United States,Paid Ads
+C167,2026-06-06,India,Email Campaign
+C168,2025-07-12,India,Email Campaign
+C169,2025-05-03,United Kingdom,Social Media
+C170,2025-03-17,India,Organic Search
+C171,2025-12-03,India,Organic Search
+C172,2025-05-31,India,Paid Ads
+C173,2026-02-04,United Kingdom,Partner
+C174,2026-04-25,India,Referral
+C175,2025-09-09,India,Organic Search
+C176,2026-01-10,UAE,Partner
+C177,2026-05-27,UAE,Organic Search
+C178,2026-04-14,Singapore,Organic Search
+C179,2026-01-31,India,Referral
+C180,2026-03-13,India,Email Campaign
+C181,2026-06-10,India,Referral
+C182,2026-02-06,India,Organic Search
+C183,2025-08-24,India,Paid Ads
+C184,2025-04-10,India,Paid Ads
+C185,2026-02-06,India,Social Media
+C186,2026-06-22,India,Partner
+C187,2026-01-24,India,Paid Ads
+C188,2025-02-12,India,Partner
+C189,2025-06-26,India,Organic Search
+C190,2026-05-16,India,Organic Search
+C191,2025-07-13,India,Organic Search
+C192,2026-08-23,India,Organic Search
+C193,2026-03-26,United States,Email Campaign
+C194,2025-05-29,India,Referral
+C195,2026-08-27,India,Social Media
+C196,2026-07-03,United Kingdom,Organic Search
+C197,2026-02-06,United Kingdom,Referral
+C198,2025-08-21,India,Social Media
+C199,2026-04-19,United States,Paid Ads
+C200,2025-04-01,United Kingdom,Paid Ads
+C201,2026-02-07,Singapore,Organic Search
+C202,2026-08-16,India,Social Media
+C203,2025-09-11,India,Social Media
+C204,2025-01-29,India,Referral
+C205,2025-04-26,Singapore,Social Media
+C206,2026-07-19,India,Referral
+C207,2026-05-13,India,Paid Ads
+C208,2026-06-12,UAE,Organic Search
+C209,2026-01-16,India,Email Campaign
+C210,2026-08-22,India,Partner
+C211,2026-04-27,India,Partner
+C212,2025-07-30,India,Social Media
+C213,2026-02-15,India,Social Media
+C214,2026-08-12,India,Organic Search
+C215,2026-01-24,India,Social Media
+C216,2025-03-16,India,Social Media
+C217,2025-04-06,United Kingdom,Organic Search
+C218,2026-04-30,Singapore,Organic Search
+C219,2025-04-24,India,Paid Ads
+C220,2026-04-05,United States,Organic Search
+C221,2026-08-02,India,Social Media
+C222,2025-11-25,India,Email Campaign
+C223,2025-05-24,India,Organic Search
+C224,2025-06-23,India,Paid Ads
+C225,2026-07-26,India,Paid Ads
+C226,2026-02-13,United Kingdom,Organic Search
+C227,2026-02-22,United Kingdom,Partner
+C228,2026-08-03,UAE,Paid Ads
+C229,2026-01-23,United Kingdom,Email Campaign
+C230,2026-08-12,India,Paid Ads
+C231,2026-08-11,India,Email Campaign
+C232,2025-03-14,India,Referral
+C233,2026-04-08,India,Organic Search
+C234,2026-01-10,India,Referral
+C235,2025-06-27,India,Referral
+C236,2025-07-27,India,Partner
+C237,2025-08-14,India,Organic Search
+C238,2026-03-28,India,Email Campaign
+C239,2025-03-14,India,Referral
+C240,2025-04-05,India,Referral
+C241,2025-07-11,India,Social Media
+C242,2026-04-04,India,Social Media
+C243,2025-09-05,India,Organic Search
+C244,2026-08-09,India,Organic Search
+C245,2025-12-07,India,Paid Ads
+C246,2026-07-07,Singapore,Paid Ads
+C247,2026-08-12,Singapore,Referral
+C248,2025-04-27,India,Organic Search
+C249,2025-06-20,India,Referral
+C250,2026-07-23,India,Paid Ads
+C251,2026-04-05,India,Organic Search
+C252,2026-04-28,United Kingdom,Email Campaign
+C253,2025-08-26,UAE,Partner
+C254,2025-02-12,India,Organic Search
+C255,2025-10-29,United Kingdom,Social Media
+C256,2026-07-26,United Kingdom,Referral
+C257,2026-07-23,India,Social Media
+C258,2026-04-24,India,Paid Ads
+C259,2025-10-06,India,Social Media
+C260,2025-07-05,India,Paid Ads
+C261,2025-03-12,India,Social Media
+C262,2026-04-06,India,Referral
+C263,2025-09-08,Singapore,Paid Ads
+C264,2026-07-29,UAE,Partner
+C265,2026-05-26,India,Organic Search
+C266,2025-05-04,India,Referral
+C267,2025-12-29,India,Referral
+C268,2025-08-05,United Kingdom,Paid Ads
+C269,2026-05-04,India,Email Campaign
+C270,2025-11-26,India,Social Media
+C271,2026-03-18,India,Referral
+C272,2025-07-18,India,Paid Ads
+C273,2025-04-30,UAE,Paid Ads
+C274,2025-05-05,India,Paid Ads
+C275,2026-08-18,India,Email Campaign
+C276,2025-09-14,India,Organic Search
+C277,2025-10-14,India,Organic Search
+C278,2025-06-10,India,Partner
+C279,2026-06-28,India,Referral
+C280,2025-03-05,India,Social Media
+C281,2026-07-25,India,Organic Search
+C282,2026-04-01,India,Organic Search
+C283,2025-10-08,India,Email Campaign
+C284,2025-12-09,India,Partner
+C285,2025-05-26,India,Paid Ads
+C286,2025-10-20,India,Organic Search
+C287,2026-02-11,United Kingdom,Paid Ads
+C288,2025-08-07,India,Organic Search
+C289,2025-06-17,India,Email Campaign
+C290,2025-12-08,India,Referral
+C291,2026-03-16,UAE,Organic Search
+C292,2025-11-15,Singapore,Referral
+C293,2026-02-14,India,Social Media
+C294,2025-10-27,India,Paid Ads
+C295,2025-11-13,India,Social Media
+C296,2026-07-23,United Kingdom,Paid Ads
+C297,2025-04-26,India,Organic Search
+C298,2025-12-01,India,Paid Ads
+C299,2025-04-04,India,Referral
+C300,2025-05-29,India,Social Media
+C301,2026-06-25,United States,Social Media
+C302,2025-11-15,India,Organic Search
+C303,2026-08-18,India,Paid Ads
+C304,2025-11-14,India,Email Campaign
+C305,2026-05-19,India,Referral
+C306,2025-07-27,United Kingdom,Social Media
+C307,2025-07-28,India,Paid Ads
+C308,2026-01-03,India,Referral
+C309,2026-03-21,India,Referral
+C310,2025-11-21,India,Paid Ads
+C311,2026-02-03,India,Email Campaign
+C312,2025-10-16,India,Organic Search
+C313,2025-03-25,India,Partner
+C314,2025-08-19,India,Organic Search
+C315,2026-07-06,UAE,Email Campaign
+C316,2025-12-08,UAE,Referral
+C317,2025-05-21,India,Referral
+C318,2026-07-07,India,Organic Search
+C319,2025-06-21,India,Email Campaign
+C320,2026-04-09,United States,Referral
